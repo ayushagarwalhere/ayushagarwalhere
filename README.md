@@ -57,5 +57,5 @@ I build backend + full‑stack web apps and I enjoy robotics, automobiles, and m
 
 ### Connect
 
-- LinkedIn: https://www.linkedin.com/in/ayushagarwalhere
+- LinkedIn: https://www.linkedin.com/in/ayush-agarwal-b8196232a
 - Portfolio: https://your-domain
