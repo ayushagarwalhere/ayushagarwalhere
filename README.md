@@ -1,57 +1,48 @@
-## Hi there 👋
-I'm Ayush, currently a second year undergrad at NIT Hamirpur, Apart from pursuing my mechanical engineering, I am also a student developer looking to collaborate on open source projects to 
-enhance my developing skills.
+## Hi, I'm Ayush Agarwal
 
-Alongside development, I also have a keen interest in robotics, automobiles, and mathematical modelling.
+Mechanical Engineering undergrad at **NIT Hamirpur** • Student Developer • Open Source Contributor
 
+I build backend + full‑stack web apps and I enjoy robotics, automobiles, and mathematical modelling.
 
-🛠️ Tech Stack
-💻 Languages
+- 🌱 Currently learning: System design, DevOps, and building scalable web services
+- 👯 Open to: Open‑source collaborations and interesting project ideas
+- 💬 Ask me about: Node.js, Express, React/Next.js, PostgreSQL, Docker
+- 📫 Reach me: **Add your email / LinkedIn below**
 
-C++ Java JavaScript TypeScript Python Go HTML5 CSS3
+---
 
-⚙️ Frameworks & Libraries
+### Tech Stack
 
-Node.js Express.js React Next.js TailwindCSS Gin EJS
+**Languages:** C++ • Java • JavaScript • TypeScript • Python • Go • HTML • CSS
 
-🗄️ Database
+**Frameworks / Libraries:** Node.js • Express • React • Next.js • TailwindCSS • Gin • EJS
 
-PostgreSQL
+**Database:** PostgreSQL
 
-☁️ Dev & Tools
+**Dev & Tools:** AWS • Docker • Nginx • Git • GitHub • Postman
 
-AWS Docker Nginx Git GitHub Postman
+---
 
-📊 GitHub Stats
+### Featured Projects
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushagarwalhere&show_icons=true&theme=tokyonight)
+> Pin your best repos on GitHub to show them here, or replace these links.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushagarwalhere&layout=compact&theme=tokyonight)
+- **Project 1** — one‑line description • [Repo](https://github.com/ayushagarwalhere?tab=repositories)
+- **Project 2** — one‑line description • [Repo](https://github.com/ayushagarwalhere?tab=repositories)
+- **Project 3** — one‑line description • [Repo](https://github.com/ayushagarwalhere?tab=repositories)
 
-DevOps & Tools
+---
 
-	hhh
-	hhh
-	ghllh,
+### GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushagarwalhere&show_icons=true&theme=tokyonight)
 
-	5h5
-	
-	h4h
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushagarwalhere&layout=compact&theme=tokyonight)
 
+---
 
-<!--
+### Connect
 
-**ayushagarwalhere/ayushagarwalhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: https://www.linkedin.com/in/<your-handle>
+- X (Twitter): https://x.com/<your-handle>
+- Portfolio: https://<your-domain>
