@@ -1,13 +1,11 @@
-## Hi, I'm Ayush Agarwal
+## Hi there 👋,
 
-Mechanical Engineering undergrad at **NIT Hamirpur** • Student Developer • Open Source Contributor
+I'm Ayush a second year undergrad at *NIT Hamirpur*, apart from pursuing my mechanical engineering, I am also a student developer, passionate about building scalable softwares, and looking towards contributing in open source projects.
 
 I build backend + full‑stack web apps and I enjoy robotics, automobiles, and mathematical modelling.
 
 - 🌱 Currently learning: System design, DevOps, and building scalable web services
 - 👯 Open to: Open‑source collaborations and interesting project ideas
-- 💬 Ask me about: Node.js, Express, React/Next.js, PostgreSQL, Docker
-- 📫 Reach me: **Add your email / LinkedIn below**
 
 ---
 
@@ -23,19 +21,9 @@ I build backend + full‑stack web apps and I enjoy robotics, automobiles, and m
 
 ---
 
-### Featured Projects
-
-> Pin your best repos on GitHub to show them here, or replace these links.
-
-- **Project 1** — one‑line description • [Repo](https://github.com/ayushagarwalhere?tab=repositories)
-- **Project 2** — one‑line description • [Repo](https://github.com/ayushagarwalhere?tab=repositories)
-- **Project 3** — one‑line description • [Repo](https://github.com/ayushagarwalhere?tab=repositories)
-
----
-
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushagarwalhere&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushagarwalhere&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushagarwalhere&layout=compact&theme=tokyonight)
 
@@ -43,6 +31,5 @@ I build backend + full‑stack web apps and I enjoy robotics, automobiles, and m
 
 ### Connect
 
-- LinkedIn: https://www.linkedin.com/in/<your-handle>
-- X (Twitter): https://x.com/<your-handle>
+- LinkedIn: https://www.linkedin.com/in/<ayushagarwalhere>
 - Portfolio: https://<your-domain>
