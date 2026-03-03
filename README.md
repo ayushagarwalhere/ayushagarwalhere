@@ -49,7 +49,7 @@ I build backend + full‑stack web apps and I enjoy robotics, automobiles, and m
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushagarwalhere)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushagarwalhere&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=ayushagarwalhere&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ---
